@@ -58,12 +58,13 @@ Estructura del proyecto
 
 Funcionalidades adicionales sugeridas
 
-Guardar nombres en localStorage: Permitir que los nombres persistan al recargar la página.
+-Guardar nombres en localStorage: Permitir que los nombres persistan al recargar la página.
 
-Opciones de configuración: Agregar la opción de personalizar las reglas del sorteo.
+-Opciones de configuración: Agregar la opción de personalizar las reglas del sorteo.
 
-Diseño responsivo: Optimizar el diseño para dispositivos móviles.
+-Diseño responsivo: Optimizar el diseño para dispositivos móviles.
 
 Autor
 
-Juan C. BernalGitHub: juancabernal
+-Juan C. Bernal
+-GitHub: juancabernal
